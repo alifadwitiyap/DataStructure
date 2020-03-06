@@ -1,11 +1,5 @@
 # DataStructure
- Data Structure adalah cara penyimpanan , pengorganisasian , dan pengaturan data di dalam media penyimpanan komputer sehingga data tersebut dapat digunakan secara efisien. Bentuk dari data struktur ini pun berbagai macam 
-
-
-
-
-
-
+ Data Structure adalah cara penyimpanan , pengorganisasian , dan pengaturan data di dalam media penyimpanan komputer sehingga data tersebut dapat digunakan secara efisien. 
 
 
 How to use:
